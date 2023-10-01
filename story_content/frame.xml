@@ -1,0 +1,2220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npxnabnsnfns01001100111" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified" themeAccentColor="0xFFF4D2">
+  <layouts>
+    <layout name="npnxnanbsnfns11111001111" font="Century Gothic" controllayout="npnxnanbsnfns11111001111" colorscheme="npxnabnsnfns01001100111" string_table="npxnabnsnfns01001100111" />
+    <layout name="pxabnsnfns11111001111" font="Century Gothic" controllayout="pxabnsnfns11111001111" colorscheme="npxnabnsnfns01001100111" string_table="npxnabnsnfns01001100111" />
+    <layout name="npxnabnsnfns11111001111" font="Century Gothic" controllayout="npxnabnsnfns11111001111" colorscheme="npxnabnsnfns01001100111" string_table="npxnabnsnfns01001100111" />
+    <layout name="npnxnanbnsnfns11111001111" font="Century Gothic" controllayout="npnxnanbnsnfns11111001111" colorscheme="npxnabnsnfns01001100111" string_table="npxnabnsnfns01001100111" />
+    <layout name="pxabnsnfns11111001110" font="Century Gothic" controllayout="pxabnsnfns11111001110" colorscheme="npxnabnsnfns01001100111" string_table="npxnabnsnfns01001100111" />
+    <layout name="npxnabnsnfns01001100111" font="Century Gothic" controllayout="npxnabnsnfns01001100111" colorscheme="npxnabnsnfns01001100111" string_table="npxnabnsnfns01001100111" />
+    <layout name="pxabnsnfns01001100111" font="Century Gothic" controllayout="pxabnsnfns01001100111" colorscheme="npxnabnsnfns01001100111" string_table="npxnabnsnfns01001100111" />
+    <layout name="pxabnsnfns11111101111" font="Century Gothic" controllayout="pxabnsnfns11111101111" colorscheme="npxnabnsnfns01001100111" string_table="npxnabnsnfns01001100111" />
+    <layout name="npnxnanbsnfns11111101111" font="Century Gothic" controllayout="npnxnanbsnfns11111101111" colorscheme="npxnabnsnfns01001100111" string_table="npxnabnsnfns01001100111" />
+    <layout name="npxnabsnfns01001100111" font="Century Gothic" controllayout="npxnabsnfns01001100111" colorscheme="npxnabnsnfns01001100111" string_table="npxnabnsnfns01001100111" />
+    <layout name="pnxanbnsnfns11111101111" font="Century Gothic" controllayout="pnxanbnsnfns11111101111" colorscheme="npxnabnsnfns01001100111" string_table="npxnabnsnfns01001100111" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="Dynamic Messaging for VISTA Recruitment" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="false">
+            <options />
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+              <option name="closed" value="true" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="glossary" value="false" group="linkleft" />
+              <listitem name="resources" value="true" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="transcript" value="true" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="none" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+          <option name="logoAltText" value="+ Logo" />
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="restricted" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="true" />
+          <option name="seekbar" value="true">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="true" />
+          <option name="replay" value="true" />
+          <option name="search" value="true" />
+          <option name="closed_captions" value="true">
+            <options>
+              <option name="font" value="Century Gothic" />
+            </options>
+          </option>
+          <option name="settings" value="true" />
+          <option name="fullScreenToggle" value="false" />
+          <option name="playbackSpeedControl" value="false" />
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="buttonoptions">
+        <options>
+          <option name="next" value="icontext" />
+          <option name="previous" value="icontext" />
+          <option name="submit" value="icontext" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns11111001111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns11111001111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns11111001111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns11111001111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns11111001110">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001100111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001100111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns11111101111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbsnfns11111101111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabsnfns01001100111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pnxanbnsnfns11111101111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npxnabnsnfns01001100111">
+      <color_group name="accessibility">
+        <group_colors>
+          <color name="focus_rect">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFF00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="focus_rect_secondary">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x002060" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x282828" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="preloader">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFF0000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3C3C3C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x316300" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x212121" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4E4E4E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4E4E4E" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x454545" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x222222" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="scene_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_text">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="6" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="selected_hover_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="notes">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="6" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x212121" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bottom_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="60" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x292929" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x457E13" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3F8500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="outer_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="6" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_in_tab">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x545454" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6AA242" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x275000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4B8A16" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB3B4B3" alpha="75" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB3B4B3" alpha="75" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x479901" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x366F00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x212121" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="generic_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="94" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="right_shadow">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+                <color rgb="0x000000" alpha="30" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x454545" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x254B00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xAFDD82" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5300" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_on_dark_background">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_on_dark_background_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="brandhighlight">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFF4D2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="brandhighlight_secondary">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x454545" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x212121" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x282828" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x282828" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x282828" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="overlay_message">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="85" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="6" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x454545" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="control_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="settings">
+        <group_colors>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x212121" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="panel_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="35" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C7C7C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_thumb_off">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA2A2A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_track_on">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFF4D2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_track_off">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="10" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_label">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="settings_border_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x454545" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x212121" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2B5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2B5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x428C01" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="40" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="volume_border_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x454545" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npxnabnsnfns01001100111">
+      <string id="acc_active">active</string>
+      <string id="acc_closed_captions">Closed captions.</string>
+      <string id="acc_definition">definition</string>
+      <string id="acc_enter_fullscreen">Enter full-screen mode</string>
+      <string id="acc_exit_fullscreen">Exit full-screen mode</string>
+      <string id="acc_finish">finish</string>
+      <string id="acc_locked">locked</string>
+      <string id="acc_modern_video_captions">video captions</string>
+      <string id="acc_modern_video_fullscreen">full-screen video</string>
+      <string id="acc_modern_video_mute">mute video</string>
+      <string id="acc_modern_video_pause">pause video</string>
+      <string id="acc_modern_video_pip">picture-in-picture</string>
+      <string id="acc_modern_video_play">play video</string>
+      <string id="acc_modern_video_playback_speed">playback speed</string>
+      <string id="acc_modern_video_settings">video settings</string>
+      <string id="acc_modern_video_transcript">Open</string>
+      <string id="acc_modern_video_volume">video volume</string>
+      <string id="acc_next">next</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="acc_playback_speed">playback speed</string>
+      <string id="acc_previous">previous</string>
+      <string id="acc_replay">replay</string>
+      <string id="acc_resources">resources</string>
+      <string id="acc_search_input">search</string>
+      <string id="acc_skipnavigation">Back to top</string>
+      <string id="acc_slide_progress">slide progress</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="acc_three_image_count_of_total_item_visited">%count% of %total% item visited</string>
+      <string id="acc_three_image_count_of_total_items_visited">%count% of %total% items visited</string>
+      <string id="acc_three_image_step_count_of_total">step %count% of %total%</string>
+      <string id="acc_video_transcript_list">Transcipt</string>
+      <string id="acc_visited">visited</string>
+      <string id="acc_volume">volume</string>
+      <string id="acc_window_close">Close</string>
+      <string id="acc_window_move">Move window</string>
+      <string id="acc_window_options">Options</string>
+      <string id="acc_window_resize">Resize window</string>
+      <string id="accessible_text">Accessible text</string>
+      <string id="acctext_shortcut">Toggle accessible text</string>
+      <string id="action">Action</string>
+      <string id="alt_key">Alt</string>
+      <string id="background_audio">Background audio</string>
+      <string id="background_audio_shortcut">Toggle background audio</string>
+      <string id="bio">Bio</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="close">Close</string>
+      <string id="closed_captions">Captions</string>
+      <string id="closed_captions_tip">Toggle captions</string>
+      <string id="closedcaptions_shortcut">Toggle closed captions</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="ctrl_key">Ctrl</string>
+      <string id="definition">Definition</string>
+      <string id="desktop_start">Start Course</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
+      <string id="enter_key">Enter</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="fullscreen_shortcut">Toggle full-screen mode</string>
+      <string id="glossary">PRINT REFLECTION</string>
+      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
+      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
+      <string id="mobile_start">Start Course</string>
+      <string id="modern_video_captions_label">Captions</string>
+      <string id="modern_video_captions_off">Off</string>
+      <string id="modern_video_captions_on">On</string>
+      <string id="modern_video_normal_speed">Normal</string>
+      <string id="modern_video_playback_settings">Video Playback Settings</string>
+      <string id="modern_video_playback_speed_title">Playback Speed</string>
+      <string id="modern_video_settings_close">close video settings</string>
+      <string id="more_info">More info</string>
+      <string id="mute_shortcut">Mute / unmute</string>
+      <string id="mute_tip">Mute</string>
+      <string id="next">NEXT</string>
+      <string id="next_shortcut">Next slide</string>
+      <string id="next_slide_tip">Next slide</string>
+      <string id="outline">Menu</string>
+      <string id="pause_tip">Pause</string>
+      <string id="play_tip">Play</string>
+      <string id="playback_speed_normal">Normal</string>
+      <string id="playback_speed_title">Playback Speed</string>
+      <string id="playpause_shortcut">Play / pause</string>
+      <string id="prev">PREV</string>
+      <string id="previous_shortcut">Previous slide</string>
+      <string id="previous_slide_tip">Previous slide</string>
+      <string id="progress_hour">hour</string>
+      <string id="progress_hours">hours</string>
+      <string id="progress_minute">minute</string>
+      <string id="progress_minutes">minutes</string>
+      <string id="progress_second">second</string>
+      <string id="progress_seconds">seconds</string>
+      <string id="question_list">Question List</string>
+      <string id="replay_shortcut">Replay slide</string>
+      <string id="replay_tip">Replay</string>
+      <string id="resources">Resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="search_toggle">Search</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="settings_tip">Settings</string>
+      <string id="shift_key">Shift</string>
+      <string id="shortcut">Shortcut</string>
+      <string id="shortcuthelp">List keyboard shortcuts</string>
+      <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="spacebar_key">Space</string>
+      <string id="streaming_video_local_playback_learn_more">Learn More</string>
+      <string id="streaming_video_local_playback_republish">To watch this video, use the preview feature in Storyline 360, upload your published output to a server, publish to Review 360, or switch to static video quality.</string>
+      <string id="streaming_video_local_playback_title">Streaming video is unavailable for local playback.</string>
+      <string id="submit">SUBMIT</string>
+      <string id="submit_shortcut">Submit slide</string>
+      <string id="submit_tip">Submit</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="terms">Terms</string>
+      <string id="three_image_audio">audio</string>
+      <string id="three_image_camera_down">camera moved down</string>
+      <string id="three_image_camera_left">camera moved left</string>
+      <string id="three_image_camera_right">camera moved right</string>
+      <string id="three_image_camera_up">camera moved up</string>
+      <string id="three_image_count_of_total">%count% of %total%</string>
+      <string id="three_image_count_of_total_visited">%count% of %total% visited</string>
+      <string id="three_image_hotspot">hotspot</string>
+      <string id="three_image_instructions">Use the w, a, s, and d keys to move around the 360 degree image. Press the tab key to jump to interactive markers and hotspots.</string>
+      <string id="three_image_interaction">360 degree image interaction</string>
+      <string id="three_image_interaction_free">free exploration mode</string>
+      <string id="three_image_interaction_guided">guided tour mode</string>
+      <string id="three_image_interaction_next">next</string>
+      <string id="three_image_interaction_prev">previous</string>
+      <string id="three_image_interaction_step">step</string>
+      <string id="three_image_item">item</string>
+      <string id="three_image_items">items</string>
+      <string id="three_image_label">label</string>
+      <string id="three_image_marker">marker</string>
+      <string id="three_image_of">of</string>
+      <string id="three_image_pause_audio">pause audio</string>
+      <string id="three_image_pause_video">pause video</string>
+      <string id="three_image_play_audio">play audio</string>
+      <string id="three_image_play_video">play video</string>
+      <string id="three_image_progress_audio">progress</string>
+      <string id="three_image_progress_video">progress</string>
+      <string id="three_image_tooltip">tooltip</string>
+      <string id="three_image_total_item">%total% item</string>
+      <string id="three_image_total_items">%total% items</string>
+      <string id="three_image_video">video</string>
+      <string id="three_image_video_volume">video volume</string>
+      <string id="three_image_visited">visited</string>
+      <string id="togglezoom">Toggle zoom to fit</string>
+      <string id="transcript">Transcript</string>
+      <string id="transcript_auto_scroll">Autoscroll</string>
+      <string id="transcript_chk">Transcript</string>
+      <string id="transcript_show_timestamp">Show timestamps</string>
+      <string id="unmute_tip">Unmute</string>
+      <string id="video_transcript_resume_autoscroll">Resume autoscroll</string>
+      <string id="video_transcript_select_track">Select track</string>
+      <string id="video_transcript_title">Transcripts</string>
+      <string id="zoom_to_fit">Zoom to fit</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Century Gothic">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.5lkCCn5xHcs" displaytext="Dynamic Messaging for VISTA Recruitment" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5lkCCn5xHcs.6TCczl6meEp" displaytext="Welcome!" expand="false" type="slide" />
+            <slidelink slideid="_player.5lkCCn5xHcs.65o0YwOGiGq" displaytext="Navigation Instructions" expand="false" type="slide" />
+            <slidelink slideid="_player.5lkCCn5xHcs.6qCC8q5RJVs" displaytext="VISTA Member Recruitment" expand="false" type="slide" />
+            <slidelink slideid="_player.5lkCCn5xHcs.5tGSKPpyzDf" displaytext="Building Your Understanding" expand="false" type="slide" />
+            <slidelink slideid="_player.5lkCCn5xHcs.6MAPrcP09Yt" displaytext="Meet VISTA Sponsor Kai" expand="false" type="slide" />
+            <slidelink slideid="_player.5lkCCn5xHcs.5cjxvfmFiy8" displaytext="VISTA Recruitment Messaging" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.5lkCCn5xHcs.6KuXMyNxXlw" displaytext="Showcase Your VISTA Project" expand="false" type="slide">
+                  <links>
+                    <slidelink slideid="_player.5lkCCn5xHcs.5wAjWXtiXvc" displaytext="Identify Important Details" expand="false" type="slide" />
+                    <slidelink slideid="_player.5lkCCn5xHcs.6HKUybKUQbL" displaytext="Identify Important Candidate Attributes" expand="false" type="slide" />
+                    <slidelink slideid="_player.5lkCCn5xHcs.5bRMeWesSIh" displaytext="Begin Your Message" expand="false" type="slide" />
+                    <slidelink slideid="_player.5lkCCn5xHcs.6J3hozhEZFi" displaytext="Continue Your Message" expand="false" type="slide" />
+                    <slidelink slideid="_player.5lkCCn5xHcs.6h4DguJ3GVM" displaytext="Identify VISTA Service Benefits" expand="false" type="slide" />
+                    <slidelink slideid="_player.5lkCCn5xHcs.5c6Nti3YhGH" displaytext="Example Recruitment Message" expand="false" type="slide" />
+                    <slidelink slideid="_player.5lkCCn5xHcs.5wesw9AZugn" displaytext="Recap" expand="false" type="slide" />
+                  </links>
+                </slidelink>
+                <slidelink slideid="_player.5lkCCn5xHcs.5sZrzJi2TBy" displaytext="Social Media Recruitment" expand="false" type="slide">
+                  <links>
+                    <slidelink slideid="_player.5lkCCn5xHcs.5dLUdbGqrqT" displaytext="In-Person Recruitment" expand="false" type="slide" />
+                    <slidelink slideid="_player.5lkCCn5xHcs.5jpChwp1rWi" displaytext="Tailoring Your Message" expand="false" type="slide" />
+                    <slidelink slideid="_player.5lkCCn5xHcs.6OkE3cP3DXZ" displaytext="Message For Career Changers" expand="false" type="slide" />
+                    <slidelink slideid="_player.5lkCCn5xHcs.6jHEfaKfqxk" displaytext="Adapt a Message" expand="false" type="slide" />
+                  </links>
+                </slidelink>
+                <slidelink slideid="_player.5lkCCn5xHcs.6KGrBD4u7kq" displaytext="Inclusive Recruitment Tips" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.5lkCCn5xHcs.5b9yvPJItrN" displaytext="Let&amp;apos;s Put the Pieces Together" expand="false" type="slide" />
+            <slidelink slideid="_player.5lkCCn5xHcs.5uhNGEyD3Pz" displaytext="Activity I" expand="false" type="slide" />
+            <slidelink slideid="_player.5lkCCn5xHcs.6XpKRN4PZLe" displaytext="Activity II" expand="false" type="slide" />
+            <slidelink slideid="_player.5lkCCn5xHcs.5ZDhSgJlTKq" displaytext="Activity III" expand="false" type="slide" />
+            <slidelink slideid="_player.5lkCCn5xHcs.5VdcQ4KOT5H" displaytext="Building Your Understanding: Closing Comments" expand="false" type="slide" />
+            <slidelink slideid="_player.5lkCCn5xHcs.6MGDwzIt3jJ" displaytext="Want to learn more?" expand="false" type="slide" />
+            <slidelink slideid="_player.5lkCCn5xHcs.6cow9KZl2WK" displaytext="Help Improve this Course" expand="false" type="slide" />
+            <slidelink slideid="_player.5lkCCn5xHcs.5jYCm4BdNrT" displaytext="Thank you!" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="5lkCCn5xHcs.6TCczl6meEp" slidebank="false" type="slide"> how can you craft your message to recruit great candidates? select next to begin. dynamic messaging for vista recruitment this course contains audio.       </slidetext>
+      <slidetext slideid="5lkCCn5xHcs.65o0YwOGiGq" slidebank="false" type="slide">  select each marker to learn more about the navigation elements of the player. to exit this course at any time, close this browser window. select next to continue. next/prev advance to the next or previous screen within the course.  accessibility options adjust additional accessibility options.  audio adjust the volume of the course or screen.  refresh refreshes current screen.  playbar playbar displays length of the current screen.  play/pause play or pause the course using this button.  collapse/expand collapse or expand the left hand pane.  current screen view current screen within the main menu.  transcript transcript opens a written version of the audio narration.  menu menu opens an outline of course sections and offers the ability to navigate within the course. </slidetext>
+      <slidetext slideid="5lkCCn5xHcs.6qCC8q5RJVs" slidebank="false" type="slide"> welcome to dynamic messaging for vista recruitment! in this course, you will learn about messaging strategies to use to successfully recruit qualified vista members. vista member recruitment </slidetext>
+      <slidetext slideid="5lkCCn5xHcs.5tGSKPpyzDf" slidebank="false" type="slide">this course will help you:  craft an effective recruitment message, attract great potential applicants, and find the right candidate for your vista project. building your understanding</slidetext>
+      <slidetext slideid="5lkCCn5xHcs.6MAPrcP09Yt" slidebank="false" type="slide"> kai is a first time vista sponsor working at telegraph community food bank in oakland, california. kai needs guidance to create successful recruitment messaging that will help him find the best vista candidates for his project. meet vista sponsor kai</slidetext>
+      <slidetext slideid="5lkCCn5xHcs.5cjxvfmFiy8" slidebank="false" type="slide"> to attract qualified candidates, vista sponsors like kai can take three actions: select each image to learn more.  vista recruitment messaging  create a recruitment message that showcasesthe vista project  create a recruitment message that showcasesthe vista project  create a recruitment message that showcasesthe vista project   tailor the recruitment message to differentformats and audiences  tailor the recruitment message to differentformats and audiences  tailor the recruitment message to differentformats and audiences  tailor the recruitment message to differentformats and audiences   ensure the recruitment message reaches a diverse pool of candidates  ensure the recruitment message reaches a diverse pool of candidates  ensure the recruitment message reaches a diverse pool of candidates  ensure the recruitment message reaches a diverse pool of candidates </slidetext>
+      <slidetext slideid="5lkCCn5xHcs.6KuXMyNxXlw" slidebank="false" type="slide">  x x x x x x a screenshot of a webpage is shown. side menus are shown, but are not the emphasis. the text reads: college access coordinator - richmond promise launched in january 2016, the richmond promise is a community-wide college scholarship fund and college success initiative to build a college graduating culture in richmond, ca. the richmond promise scholarship is made possible by a 10-year. $35 millon seed-investment from the chevron corporation's environmental and community investment agreement with the city of richmond. the richmond promise is a 501c3 charitable organization with institutional partnerships with the city of richmond, wccusd, contra costa college. university of california and california state university systems. mission: we see a day when all children in richmond have access to high quality education, excel from high school to higher education, attain a postsecondary degree or certification, thrive in the field of their choice, and become a leader of positive change in their community and the world. goals: increase the number of students, particularly who are low-income and first in their family to go to college, who: 1. are exposed to college resources, role models, and experiences throughout k-16 2. successfully transition to an accredited university/college directly from high school 3. successfully transfer from community college to 4-year university 4. complete an associates degree, bachelor's degree, or career + technical education further help on this page can be found by clicking here. member duties: the vista team will work collaboratively to build capacity and advance the mission of the  richmond promise. they will support the development of an effective outreach strategy that aims to increase awareness and access to the richmond promise scholarship  and build a college-graduation culture throughout the city of richmond while prioritizing equity and inclusion for underrepresented communities. the vista members will also help to develop and manage college awareness programming at the k-12 level, including financial aid access and college-going conversations  with richmond youth. additionally, they will work to engage parents in the community to build a parent volunteer wing that supports the college aspirations of all richmond's  youth, regardless of background or identity. the team will develop a communications and outreach plan that promotes financial aid awareness and access among all  richmond parents and families, particularly those who have been historically underserved. they will work to build sustainable community-based institutional partnerships with  schools. community-based organizations, and other stakeholders within the richmond community. these partnerships will help develop a comprehensive financial aid campaign that increases access to state and federal dollars for college, particularly for marginalized and underrepresented groups.     showcase your vista project vista sponsors are required to submit service opportunity listings in egrants to recruit applicants for their vista projects.  using the information provided in the service opportunity listings is a great place to start developing recruitment messages.  select the underlined text to review a sample.</slidetext>
+      <slidetext slideid="5lkCCn5xHcs.5wAjWXtiXvc" slidebank="false" type="slide">to be eligible for this unique opportunity, you must be at least 18 years old and a us citizen, national, or legal resident. you must also be able to successfully complete a background investigation.  join us in our mission to end hunger and promote food justice. to learn more about our organization and apply for this opportunity, please visit my americorps. in addition to making a meaningful impact, vista members with telegraph community food bank will gain valuable skills and experience in community engagement and nonprofit management. this is a great opportunity to build your resume, develop your leadership skills, and make a lasting impact on your community. you will have the opportunity to make a real impact in our community, and your tasks will include expanding our food distribution network and raising awareness about hunger and food insecurity in oakland. located in the heart of oakland, california, telegraph community food bank is a nonprofit organization committed to ending hunger in our community. we achieve our mission by providing nutritious meals to families and individuals in need.    identify important details about your program the service opportunity listing can help you identify key attributes of your organization and program. select each button to explore the key attributes of kai's program. who are you?where are you located?  who are you?where are you located? who are you?where are you located? who are you?where are you located? who are you?where are you located? what will vista members do?  what will vista members do? what will vista members do? what will vista members do? what will vista members do? why is this work important?  why is this work important? why is this work important? why is this work important? why is this work important? who is eligible? how do they apply?  who is eligible? how do they apply? who is eligible? how do they apply? who is eligible? how do they apply? who is eligible? how do they apply?</slidetext>
+      <slidetext slideid="5lkCCn5xHcs.6HKUybKUQbL" slidebank="false" type="slide">interpersonal skills  cultural competency, personal communication style, and collaboration skills are important qualities for candidates to possess.  interpersonal skills initiative  candidates who take initiative and work independently, as well as those who set challenging goals, will be well suited for the demands of the vista project.  initiative personal responsibility  candidates with honesty, integrity, follow-through, self-control, and empathy are more likely to take personal responsibility for their work.  personal responsibility adaptability and flexibility  curiosity, a willingness to explore new ideas and strategies, and the ability to deal with ambiguity are important qualities for candidates to possess.  adaptability and flexibility leadership  candidates with a positive attitude, the ability to influence others to act, and the ability to manage change will be better equipped to lead their team.  leadership willingness to learn  candidates who pursue lifelong learning will be betterequipped to handle the demands of the vista project.  candidates who pursue lifelong learning will be betterequipped to handle the demands of the vista project.  interpersonal skills  cultural competency, personal communication style, and collaboration skills are important qualities for candidates to possess.  interpersonal skills initiative  candidates who take initiative and work independently, as well as those who set challenging goals, will be well suited for the demands of the vista project.  initiative personal responsibility  candidates with honesty, integrity, follow-through, self-control, and empathy are more likely to take personal responsibility for their work.  personal responsibility adaptability and flexibility  curiosity, a willingness to explore new ideas and strategies, and the ability to deal with ambiguity are important qualities for candidates to possess.  adaptability and flexibility leadership  candidates with a positive attitude, the ability to influenceothers to act, and the ability to manage change will be better equipped to lead their team.  candidates with a positive attitude, the ability to influenceothers to act, and the ability to manage change will be better equipped to lead their team. willingness to learn  candidates who pursue lifelong learning will be better equipped to handle the demands of the vista project.  willingness to learn  interpersonal skills  cultural competency, personal communication style, and collaboration skills are important qualities for candidates to possess.  interpersonal skills initiative  candidates who take initiative and work independently, as well as those who set challenging goals, will be well suited for the demands of the vista project.  initiative personal responsibility  candidates with honesty, integrity, follow-through, self-control, and empathy are more likely to take personal responsibility for their work.  personal responsibility adaptability and flexibility  curiosity, a willingness to explore new ideas and strategies,and the ability to deal with ambiguity are important qualitiesfor candidates to possess.  curiosity, a willingness to explore new ideas and strategies,and the ability to deal with ambiguity are important qualitiesfor candidates to possess. leadership  candidates with a positive attitude, the ability to influence others to act, and the ability to manage change will be better equipped to lead their team.  leadership willingness to learn  candidates who pursue lifelong learning will be better equipped to handle the demands of the vista project.  willingness to learn  interpersonal skills  cultural competency, personal communication style, and collaboration skills are important qualities for candidates to possess.  interpersonal skills initiative  candidates who take initiative and work independently, as well as those who set challenging goals, will be well suited for the demands of the vista project.  initiative personal responsibility  candidates with honesty, integrity, follow-through, self-control,and empathy are more likely to take personal responsibility fortheir work.  candidates with honesty, integrity, follow-through, self-control,and empathy are more likely to take personal responsibility fortheir work. adaptability and flexibility  curiosity, a willingness to explore new ideas and strategies, and the ability to deal with ambiguity are important qualities for candidates to possess.  adaptability and flexibility leadership  candidates with a positive attitude, the ability to influence others to act, and the ability to manage change will be better equipped to lead their team.  leadership willingness to learn  candidates who pursue lifelong learning will be better equipped to handle the demands of the vista project.  willingness to learn  interpersonal skills  cultural competency, personal communication style, and collaboration skills are important qualities for candidates to possess.  interpersonal skills initiative  candidates who take initiative and work independently, as wellas those who set challenging goals, will be well suited for the demands of the vista project.  candidates who take initiative and work independently, as wellas those who set challenging goals, will be well suited for the demands of the vista project. personal responsibility  candidates with honesty, integrity, follow-through, self-control, and empathy are more likely to take personal responsibility for their work.  personal responsibility adaptability and flexibility  curiosity, a willingness to explore new ideas and strategies, and the ability to deal with ambiguity are important qualities for candidates to possess.  adaptability and flexibility leadership  candidates with a positive attitude, the ability to influence others to act, and the ability to manage change will be better equipped to lead their team.  leadership willingness to learn  candidates who pursue lifelong learning will be better equipped to handle the demands of the vista project.  willingness to learn  interpersonal skills  cultural competency, personal communication style, and collaboration skills are important qualities for candidates to possess.  cultural competency, personal communication style, and collaboration skills are important qualities for candidates to possess. initiative  candidates who take initiative and work independently, as well as those who set challenging goals, will be well suited for the demands of the vista project.  initiative personal responsibility  candidates with honesty, integrity, follow-through, self-control, and empathy are more likely to take personal responsibility for their work.  personal responsibility adaptability and flexibility  curiosity, a willingness to explore new ideas and strategies, and the ability to deal with ambiguity are important qualities for candidates to possess.  adaptability and flexibility leadership  candidates with a positive attitude, the ability to influence others to act, and the ability to manage change will be better equipped to lead their team.  leadership willingness to learn  candidates who pursue lifelong learning will be better equipped to handle the demands of the vista project.  willingness to learn  identify important candidate attributes a dynamic recruitment message includes not only important attributes about your organization and program but also the attributes of a strong candidate. select each of the following attributes of a strong candidate to learn more, then select next to continue. select each of the following attributes of a strong candidate to learn more, then select next to continue.  interpersonal skills  cultural competency, personal communication style, and collaboration skills are important qualities for candidates to possess.  interpersonal skills initiative  candidates who take initiative and work independently, as well as those who set challenging goals, will be well suited for the demands of the vista project.  initiative personal responsibility  candidates with honesty, integrity, follow-through, self-control, and empathy are more likely to take personal responsibility for their work.  personal responsibility adaptability and flexibility  curiosity, a willingness to explore new ideas and strategies, and the ability to deal with ambiguity are important qualities for candidates to possess.  adaptability and flexibility leadership  candidates with a positive attitude, the ability to influence others to act, and the ability to manage change will be better equipped to lead their team.  leadership willingness to learn  candidates who pursue lifelong learning will be better equipped to handle the demands of the vista project.  willingness to learn</slidetext>
+      <slidetext slideid="5lkCCn5xHcs.5bRMeWesSIh" slidebank="false" type="slide">great ideas! a few examples of responsibilities a candidate in your project may have to perform include: project planning, cultural competence, leadership, and data management. select the x icon to continue. x x x x x x  enter your text here  to best understand the attributes a candidate will need for your project, you must consider the position’s responsibilities. identify the top three responsibilities that a candidate for your project will have to perform. enter your response below and select submit to continue.</slidetext>
+      <slidetext slideid="5lkCCn5xHcs.6J3hozhEZFi" slidebank="false" type="slide">great ideas! you many have considered some of the most desired competencies such as the following: time management, flexibility, and communication skills. select the x icon to continue. x x x x x x  enter your text here  with the role’s responsibilities outlined, identify the top three characteristics that a strong candidate will need to meet these responsibilities and perform the role successfully. enter your reflection below and select submit to continue.</slidetext>
+      <slidetext slideid="5lkCCn5xHcs.6h4DguJ3GVM" slidebank="false" type="slide">       select the &lt; icon to review information. benefits of serving as a vista member include:  segal americorps education award (education award),   stipend and healthcare benefits, professional development, personal growth, and networking opportunities.     identify vista service benefits    listing the unique benefits of vista service in your recruitment message is important because it helps differentiate service from a job. listing vista service benefits is also important because it provides a clearer understanding of the vista service role and experience. select the &gt; icon to view more information.</slidetext>
+      <slidetext slideid="5lkCCn5xHcs.5c6Nti3YhGH" slidebank="false" type="slide"> the recruitment message identifies the professional growth opportunities the vista member can expect to gain in this role. x x x x x x  this portion of the recruitment messages emphasizes the personal attributes the project is looking for in their vista member. x x x x x x       review kai’s recruitment message below. select the underlined text to review the key components he included. select the ^ icons to review information. this opportunity will help you enhance your resume, develop your leadership skills, and make a lasting impact on your community. to be eligible for this unique opportunity, you must be at least 18 years old and a us citizen, national, or legal resident. you must also be able to successfully complete a background investigation. join us in our mission to end hunger and promote food justice. to learn more about our organization and apply, please visit my americorps.          select the ^ and ú icons for more information.     review kai’s recruitment message below. select the underlined text to review the key components he included. join our cause and make a lasting difference in our community. in addition to creating a meaningful impact, volunteering with telegraph community food bank as a vista member will provide you with invaluable skills and experience in community engagement and nonprofit management.                review kai’s recruitment message below. select the underlined text to review the key components he included. select the ^ and ú icons for more information.      telegraph community food bank is looking for a flexible self-starter to serve as an americorps member in our vista program.  you will have the opportunity to make a real impact in our community, and your tasks will include expanding our food distribution network and raising awareness about hunger and food insecurity in oakland and by promoting food justice and equity. telegraph community food bank is looking for a flexible self-starter to serve as an americorps member in our vista program.  you will have the opportunity to make a real impact in our community, and your tasks will include expanding our food distribution network and raising awareness about hunger and food insecurity in oakland and by promoting food justice and equity.      example recruitment message      select the ú icons to view more information. review kai’s recruitment message below. select the underlined text to review the key components he included. located in the heart of oakland, california, telegraph community food bank is a nonprofit organization committed to ending hunger in our community. we achieve our mission by providing nutritious meals to families and individuals in need by promoting food justice and equity.       </slidetext>
+      <slidetext slideid="5lkCCn5xHcs.5wesw9AZugn" slidebank="false" type="slide"> recap when you begin your recruitment message, review the sponsor-provided service opportunity listing in egrants to get valuable information about your organization and what candidates can expect. along with those details, it’s good practice to include in your message the position’s important attributes, eligibility criteria, and benefits.</slidetext>
+      <slidetext slideid="5lkCCn5xHcs.5sZrzJi2TBy" slidebank="false" type="slide">       select the &lt; icon to review information. review how kai adapted his recruitment message for social media: check out this exciting opportunity to make a real impact in the oakland community! as a vista member with telegraph community food bank, you'll expand our food distribution network and raise awareness about hunger. #foodjustice #endhunger  apply now at my americorps. image placeholder #17          image placeholder #17  review how kai adapted his recruitment message for social media: select the &lt; icon to review information. https://my.americorps.gov/mp/login.do https://my.americorps.gov/mp/login.do https://my.americorps.gov/mp/login.do telegraph community food bank tweet that reads: check out this exciting opportunity to make a real impact in the oakland community! as a vista member with telegraph community food bank, you’ll expand our food distribution network and raise awareness about hunger. apply now! htts://my americorps.gov/mp/login.do #foodjustice #endhunger      social media recruitment    select the cards below for some tips you can use to tailor your recruitment message for social media. select the &gt; icon to view more information. use attention-grabbing headlines and images to draw people in  use attention-grabbing headlines and images to draw people in keep messages brief and to the point  keep messages brief and to the point use hashtags to increase visibility  use hashtags to increase visibility share stories and testimonials from current or past vista members to give potential recruits a better idea of what to expect  share stories and testimonials from current or past vista members to give potential recruits a better idea of what to expect  sponsors can reach a wider range of candidates by tailoring their message for various formats, such as social media platforms and in-person or virtual recruitment events.</slidetext>
+      <slidetext slideid="5lkCCn5xHcs.5dLUdbGqrqT" slidebank="false" type="slide">create a 30-secondverbal message use a friendly and welcoming tone highlight the benefits and opportunities available to vista members encourage applicants to apply at my americorps         select the &lt; icon to review information. select the speaker icon to listen to kai’s in-person recruitment message. select the speaker icon to replay kai’sin-person recruitment message. select the speaker icon to listen to kai’s in-person recruitment message. image placeholder #19 (kai character in community setting)                   in-person recruitment    select the icons below for some tips for tailoring your recruitment message for an in-person event. select the &gt; icon to view more information.                              </slidetext>
+      <slidetext slideid="5lkCCn5xHcs.5jpChwp1rWi" slidebank="false" type="slide"> college students highlight the education award as a benefit of serving in your vista project. additionally, describe the available professional development opportunities your project offers.  career changers emphasize the education award as a benefit of serving in your vista project. in addition, highlight how the skills and experience gained through vista service can be applied to a career change.  retirees include examples of how retirees have served in your vista project or in the vista program in general. highlight how vista service can provide a meaningful way to give back and continue making an impact in their communities by using their professional expertise.   retirees retirees retirees retirees retirees career changers career changers career changers career changers career changers college students college students college students college students college students tailoring your message sponsors can widen their net of potential candidates by tailoring the recruitment message for different formats and for different audiences.  select each tab to learn more. then, select next to continue.</slidetext>
+      <slidetext slideid="5lkCCn5xHcs.6OkE3cP3DXZ" slidebank="false" type="slide">  the recruitment message describes the professional skills the accepted candidate will develop through this vista position. x x x x x x      select the ^ icons to review information. review the recruitment message kai drafted for career changers below. select the underlined text to review the key components he included.      to apply for this position, you must be a us citizen, national, or legal resident and able to successfully complete a background investigation. the accepted candidate can expect to demonstrate their adaptability, improve their communication through outreach, and develop their leadership skills as they expand the food distribution network.  don't miss out on this chance to start a fulfilling new career; join the mission to end hunger and promote food justice. apply now at my americorps. to apply for this position, you must be a us citizen, national, or legal resident and able to successfully complete a background investigation. the accepted candidate can expect to demonstrate their adaptability, improve their communication through outreach, and develop their leadership skills as they expand the food distribution network.  don't miss out on this chance to start a fulfilling new career; join the mission to end hunger and promote food justice. apply now at my americorps.    the recruitment message highlights how the education award can apply to expenses relevant to career changers. x x x x x x   select the ^ and ú icons for more information.    review the recruitment message kai drafted for career changers below. select the underlined text to review the key components he included.          serving as a vista member with the telegraph community food bank is an opportunity to gain invaluable skills in community engagement and nonprofit management while making a lasting impact on your community.  in addition to the opportunity to positively impact your community, americorps members receive several benefits including an education award that applies to educational expenses and qualified student loan repayment.   example recruitment message for career changers     select the ú icons to view more information. review the recruitment message kai drafted for career changers below. select the underlined text to review the key components he included.        seeking a career change that makes a difference?  look no further than telegraph community food bank in oakland, california! as a vista member, you'll develop and implement strategies to expand the food distribution network, promote food justice and equity, and raise awareness about hunger and food insecurity in oakland.</slidetext>
+      <slidetext slideid="5lkCCn5xHcs.6jHEfaKfqxk" slidebank="false" type="slide">great ideas! here is an example of how this message might be tailored to a career changer: are you looking for a career change that allows you to make a meaningful impact in your community? are you seeking an opportunity to build new professional skills and get hands-on experience in the nonprofit sector? if so, we have the perfect opportunity for you! select the x icon to continue. x x x x x x  enter your text here  how would you revise this recruitment message opening to target an individual who is in the process of changing their career? enter your reflection below and select submit to continue. read the recruitment message below and then respond to the following question.  are you passionate about serving your community and making a difference in the lives of others? do you have a strong desire to gain professional development and hands-on experience in the nonprofit sector? if so, we have the perfect opportunity for you!</slidetext>
+      <slidetext slideid="5lkCCn5xHcs.6KGrBD4u7kq" slidebank="false" type="slide"> inclusive recruitment tips here are some strategies for seeking out a diverse pool of applicants: post the message in different community locations, engage with local community leaders, use inclusive language in your recruitment messages, and  highlight the organization’s commitment to diversity, equity, and inclusion.</slidetext>
+      <slidetext slideid="5lkCCn5xHcs.5b9yvPJItrN" slidebank="false" type="slide"> let’s put the pieces together check your understanding of the strategies shared in this course by reviewing the following example. consider how the message could be improved, then select the best response to the questions at the end of the example. select next to begin.</slidetext>
+      <slidetext slideid="5lkCCn5xHcs.5uhNGEyD3Pz" slidebank="false" type="slide">try again  try again try again try again you did not select the correct response.  select try again  to continue. try again continue  continue continue continue nice try this recruitment message targets career-changers by highlighting the applicant who is seeking to make a change and the opportunity for continued growth through professional development. select continue. yes! this recruitment message targets career-changers by highlighting the applicant who is seeking to make a change and the opportunity for continued growth through professional development. select continue. continue  continue continue continue        as a vista member, you will receive a living allowance, healthcare, and monthly professional development to continue your growth. the service dates are december 3, 2023, to december 2, 2024. to be eligible for this position, you must be at least 18 years old and pass a criminal background check. you must be a us citizen, us national, or lawful permanent resident alien. a four-year degree in marketing or communication or equivalent experience is also required for this project. join us in our mission to empower children through literacy and make a meaningful impact in our community. select the &lt; icon to review information.   no – it is a general message for all audiences. no – it is a general message for all audiences. no – it is a general message for all audiences. no – it is a general message for all audiences. no – it is a general message for all audiences. no – it is a general message for all audiences. yes – it targets college students. yes – it targets college students. yes – it targets college students. yes – it targets college students. yes – it targets college students. yes – it targets college students. yes – it targets career changers. yes – it targets career changers. yes – it targets career changers. yes – it targets career changers. yes – it targets career changers. yes – it targets career changers. yes – it targets retirees. yes – it targets retirees. yes – it targets retirees. yes – it targets retirees. yes – it targets retirees. yes – it targets retirees. sample message: question one is this recruitment message targeting a certain audience?    are you passionate about ensuring that every child can learn and thrive? are you seeking a change that allows you to connect with others and share your enthusiasm for community service and literacy? if so, join us at readers of tomorrow as an americorps vista member! we are a nonprofit organization based in town, usa, dedicated to improving the reading skills of immigrant children ages 5-11. we are seeking a motivated, outgoing individual to join our team as a marketing and communications vista member. in this role, you will rely on your skillset to find creative ways to increase our visibility within the community and increase our financial resources. navigate through the text below to read a recruitment message shared by a fellow vista sponsor and then respond to the questions that follow. select the &gt; icon to view more information.  </slidetext>
+      <slidetext slideid="5lkCCn5xHcs.6XpKRN4PZLe" slidebank="false" type="slide">try again  try again try again try again you did not select the correct response.  select try again  to continue. try again continue  continue continue continue nice try make sure to include information about the education award, especially for recent postsecondary graduates and those hoping to change careers. select continue. yes! make sure to include information about the education award, especially for recent postsecondary graduates and those hoping to change careers. select continue. continue  continue continue continue        select the &lt; icon to review information. as a vista member, you will receive a living allowance, healthcare, and monthly professional development to continue your growth. the service dates are december 3, 2023, to december 2, 2024. to be eligible for this position, you must be at least 18 years old and pass a criminal background check. you must be a us citizen, us national, or lawful permanent resident alien. a four-year degree in marketing or communication or equivalent experience is also required for this project. join us in our mission to empower children through literacy and make a meaningful impact in our community.   identify how to contact the organization. identify how to contact the organization. identify how to contact the organization. identify how to contact the organization. identify how to contact the organization. identify how to contact the organization. include more about vista service benefits. include more about vista service benefits. include more about vista service benefits. include more about vista service benefits. include more about vista service benefits. include more about vista service benefits. note the number of applicants the program allows. note the number of applicants the program allows. note the number of applicants the program allows. note the number of applicants the program allows. note the number of applicants the program allows. note the number of applicants the program allows. provide additional program eligibility requirements. provide additional program eligibility requirements. provide additional program eligibility requirements. provide additional program eligibility requirements. provide additional program eligibility requirements. provide additional program eligibility requirements. sample message: question two what additional information about serving in the vista program would be helpful to a prospective candidate?    are you passionate about ensuring that every child can learn and thrive? are you seeking a change that allows you to connect with others and share your enthusiasm for community service and literacy? if so, join us at readers of tomorrow as an americorps vista member! we are a nonprofit organization based in town, usa, dedicated to improving the reading skills of immigrant children ages 5-11. we are seeking a motivated, outgoing individual to join our team as a marketing and communications vista member. in this role, you will rely on your skillset to find creative ways to increase our visibility within the community and increase our financial resources. navigate through the text below to read a recruitment message shared by a fellow vista sponsor and then respond to the questions that follow. select the &gt; icon to view more information.  </slidetext>
+      <slidetext slideid="5lkCCn5xHcs.5ZDhSgJlTKq" slidebank="false" type="slide">try again  try again try again try again you did not select the correct response.  select try again  to continue. try again continue  continue continue continue nice try it is important to post recruitment messages in many places, which helps reach a wider pool of candidates, to increase the chances of getting applicants with diverse experiences and backgrounds. select continue. yes! it is important to post recruitment messages in many places, which helps reach a wider pool of candidates, to increase the chances of getting applicants with diverse experiences and backgrounds. select continue. continue  continue continue continue   the message will get many views and likes. the message will get many views and likes. the message will get many views and likes. the message will get many views and likes. the message will get many views and likes. the message will get many views and likes. other vista sponsors will see it and spread the opportunity. other vista sponsors will see it and spread the opportunity. other vista sponsors will see it and spread the opportunity. other vista sponsors will see it and spread the opportunity. other vista sponsors will see it and spread the opportunity. other vista sponsors will see it and spread the opportunity. increased traffic to the program’s website and inquiring phone calls. increased traffic to the program’s website and inquiring phone calls. increased traffic to the program’s website and inquiring phone calls. increased traffic to the program’s website and inquiring phone calls. increased traffic to the program’s website and inquiring phone calls. increased traffic to the program’s website and inquiring phone calls. a widespread reach to get diverse applicants. a widespread reach to get diverse applicants. a widespread reach to get diverse applicants. a widespread reach to get diverse applicants. a widespread reach to get diverse applicants. a widespread reach to get diverse applicants. sample message: question three this recruitment message has been posted in multiple places: the program’s website, social media, local college libraries, and nearby career centers. what does this ensure?</slidetext>
+      <slidetext slideid="5lkCCn5xHcs.5VdcQ4KOT5H" slidebank="false" type="slide">   this course introduced you to some key components of a strategic vista recruitment message, to help you:  craft an effective recruitment message,  attract great potential applicants, and find the right candidate for your vista project. building your understanding: closing comments </slidetext>
+      <slidetext slideid="5lkCCn5xHcs.6MGDwzIt3jJ" slidebank="false" type="slide">  check out these resources a guide to inclusive recruitment for employers review this comprehensive recruitment guide for recommended actions throughout the interview process.  want to learn more? actively addressing unconscious bias in recruiting this resource highlights unconscious bias, and how organizations can – and should – address it in recruitment. social media recruiting: a complete guide (with examples) learn about the benefits and process of creating a social media marketing strategy.</slidetext>
+      <slidetext slideid="5lkCCn5xHcs.5jYCm4BdNrT" slidebank="false" type="slide"> print reflections print reflections print reflections print reflections %textentry_continuemessage% identify the top three personal attributes that a strong candidate will need to meet these responsibilities and perform the role successfully %textentry_beginmessage%	 identify the top three responsibilities that a candidate for your project will have to perform. %textentry_adaptmessage% how would you revise this recruitment message opening to target an individual who is in the process of changing their career? x x x x x x  important: after this browser window closes, select next to mark this course as complete.  next important: after this browser window closes, select next to mark this course as complete.  select close to exit. thank you for completing the course! close  close close close review reflections  review reflections review reflections review reflections</slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="&lt;p align='left'&gt;&lt;font face='Century Gothic' style='font-size: 11px;' size='11' color='#BABBBA'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
+    <resources>
+      <resource url="https://learn.americorps.gov/system/files/2023-05/Marketing-for-Recruitment-Worksheet_0.docx" image="story_content/url.png" title="Marketing for Recruitment Worksheet" />
+    </resources>
+  </resource_data>
+  <transcript_data>
+    <slidetranscripts>
+      <slidetranscript slideid="5lkCCn5xHcs.6MAPrcP09Yt" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Meet Kai, a first-time VISTA sponsor at Telegraph Community Food Bank in Oakland, California. Kai needs guidance to create successful recruitment messaging that will help him find the best VISTA candidates for his project. This course aims to help VISTA sponsors with this task. Let's begin!"&gt;
+        &lt;Style FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5lkCCn5xHcs.5cjxvfmFiy8" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="VISTA sponsors like Kai can do three things to attract qualified candidates. First, Kai can create a recruitment message that showcases the VISTA project. Next, he can tailor the recruitment message to different audiences. And third, he can ensure that the recruitment message reaches a diverse pool of candidates. &amp;#xA;"&gt;
+        &lt;Style FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Select each image to learn more."&gt;
+        &lt;Style FontSize="12" FontIsItalic="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5lkCCn5xHcs.6KuXMyNxXlw" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="2">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="As a first-year VISTA sponsor, Kai is new to writing recruitment messages, and he is looking for a starting point. All VISTA sponsors must submit Service Opportunity Listings in eGrants. The Service Opportunity Listing includes a great deal of information that Kai can leverage as a valuable starting point for developing his recruitment "&gt;
+        &lt;Style FontSize="12" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="messages"&gt;
+        &lt;Style FontSize="12" ForegroundColor="#BABBBA" LinkColor="#BABBBA" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=". Select the underlined text to review a sample. "&gt;
+        &lt;Style FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5lkCCn5xHcs.5wAjWXtiXvc" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="3">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Using information found in the Service Opportunity Listing, Kai begins developing a recruitment message by answering the “who, what, where, why, and, how” of the VISTA position. Select each button to learn how Kai responds."&gt;
+        &lt;Style FontSize="12" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5lkCCn5xHcs.6HKUybKUQbL" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="4">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Kai can improve his recruitment message by emphasizing the attributes of a strong candidate, which go beyond the skills necessary to complete project tasks. Select each of the following attributes to learn more. Then select "&gt;
+        &lt;Style FontSize="12" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="NEXT "&gt;
+        &lt;Style FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to continue. "&gt;
+        &lt;Style FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5lkCCn5xHcs.5bRMeWesSIh" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="To best understand the attributes a candidate will need for your project, you must consider the position’s responsibilities. Identify the top three responsibilities that a candidate for your project will have to perform. Enter your response below and select "&gt;
+        &lt;Style FontFamily="Century Gothic" FontSize="12" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#BABBBA" BackgroundColor="#000000,00" Elevation="Normal" DisplayCase="AsIs" LinkColor="#BABBBA" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="SUBMIT "&gt;
+        &lt;Style FontFamily="Century Gothic" FontSize="12" FontIsBold="True" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#BABBBA" BackgroundColor="#000000,00" Elevation="Normal" DisplayCase="AsIs" LinkColor="#BABBBA" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to continue."&gt;
+        &lt;Style FontFamily="Century Gothic" FontSize="12" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#BABBBA" BackgroundColor="#000000,00" Elevation="Normal" DisplayCase="AsIs" LinkColor="#BABBBA" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5lkCCn5xHcs.6J3hozhEZFi" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="6">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="With the role’s responsibilities outlined, identify the top three characteristics that a strong candidate will need to meet these responsibilities and perform the role successfully. Enter your reflection below and select "&gt;
+        &lt;Style FontSize="12" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="SUBMIT "&gt;
+        &lt;Style FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to continue."&gt;
+        &lt;Style FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5lkCCn5xHcs.6h4DguJ3GVM" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="7">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Page One"&gt;
+        &lt;Style FontFamily="Century Gothic" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontFamily="Century Gothic" FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Next, Kai should highlight the unique benefits of VISTA service in his recruitment message. Listing benefits is important because it helps differentiate service from a regular paid job. Select the right facing arrow to view more information.&amp;#xA;"&gt;
+        &lt;Style FontFamily="Century Gothic" FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Page Two"&gt;
+        &lt;Style FontFamily="Century Gothic" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontFamily="Century Gothic" FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Take a moment to review some of the benefits of VISTA service. Select the left facing arrow to review information."&gt;
+        &lt;Style FontFamily="Century Gothic" FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5lkCCn5xHcs.5c6Nti3YhGH" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="8">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Kai has drafted his recruitment message. Let’s review it now. &amp;#xD;Select the down-facing arrow to view more of Kai’s message. Select the underlined text to review the key components he included."&gt;
+        &lt;Style FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5lkCCn5xHcs.5sZrzJi2TBy" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="9">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Page One"&gt;
+        &lt;Style FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Kai can reach a wider range of candidates with his message by tailoring it for different formats, such as social media platforms and in-person recruitment events."&gt;
+        &lt;Style FontSize="12" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontFamily="Century Gothic" FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Select the right facing arrow to view more information."&gt;
+        &lt;Style FontFamily="Century Gothic" FontSize="12" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Page Two"&gt;
+        &lt;Style FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Let’s review how Kai tailored his recruitment message for social media. &amp;#xA;"&gt;
+        &lt;Style FontFamily="Century Gothic" FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Select the left facing arrow to review information."&gt;
+        &lt;Style FontFamily="Century Gothic" FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5lkCCn5xHcs.5dLUdbGqrqT" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="10">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Page One"&gt;
+        &lt;Style FontFamily="Century Gothic" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontFamily="Century Gothic" FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Select the icons below to explore tips for tailoring your recruitment message for an in-person event. &amp;#xA;"&gt;
+        &lt;Style FontFamily="Century Gothic" FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Then select the right facing arrow to view more information.&amp;#xA;"&gt;
+        &lt;Style FontFamily="Century Gothic" FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Page Two"&gt;
+        &lt;Style FontFamily="Century Gothic" FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontFamily="Century Gothic" FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Select the speaker icon to listen to the message Kai developed for in-person recruitment:&amp;#xA;"&gt;
+        &lt;Style FontFamily="Century Gothic" FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Hey there! Have you heard of Telegraph Community Food Bank? We're a nonprofit organization located in Oakland dedicated to ending hunger in our community. As a VISTA member, you'll help make a real difference by expanding our food distribution network with your self-starter attitude and flexibility. Your tasks will include raising awareness about hunger in Oakland. Plus, you'll gain valuable skills in community engagement and nonprofit management. Check out this opportunity at My AmeriCorps. Thank you for your time!&amp;#xA;"&gt;
+        &lt;Style FontFamily="Century Gothic" FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Select the left facing arrow to review information."&gt;
+        &lt;Style FontFamily="Century Gothic" FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5lkCCn5xHcs.5jpChwp1rWi" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="11">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Sponsors like Kai can widen their net of potential candidates by tailoring their recruitment messages to different formats and different audiences, such as college students, career changers, and retirees. Select each tab to learn more. Then select "&gt;
+        &lt;Style FontSize="12" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="NEXT "&gt;
+        &lt;Style FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to continue. "&gt;
+        &lt;Style FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5lkCCn5xHcs.6OkE3cP3DXZ" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="12">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Kai has customized his recruitment message to target career changers. Let's review it now. &amp;#xA;"&gt;
+        &lt;Style FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Select the down-facing arrow to view more of the message. Select the underlined text to review the key components he included."&gt;
+        &lt;Style FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5lkCCn5xHcs.6jHEfaKfqxk" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="13">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Read the following sample VISTA recruitment message and consider how you would revise this paragraph for a career changer."&gt;
+        &lt;Style FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5lkCCn5xHcs.6KGrBD4u7kq" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="14">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="-10" Justification="Left" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Actively seeking out a diverse pool of applicants is important for increasing your pool of qualified candidates. Here are some strategies: post the message in different community locations such as community centers, cultural organizations, and specific job boards, like AARP and NAACP local chapters, engage with local community leaders, and remember to use inclusive language in recruitment messages, and highlight the organization's commitment to diversity, equity, and inclusion."&gt;
+        &lt;Style FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5lkCCn5xHcs.5b9yvPJItrN" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="15">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Check your understanding of the strategies shared in this course by reviewing the following example. Consider how the message could be improved, then select the best response to the questions at the end of the example.&amp;#xA;"&gt;
+        &lt;Style FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Select "&gt;
+        &lt;Style FontSize="12" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="NEXT "&gt;
+        &lt;Style FontSize="12" FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to begin."&gt;
+        &lt;Style FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5lkCCn5xHcs.5jYCm4BdNrT" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="16">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Thank you for completing this course! Select the buttons below to review your reflections and close the course. After this browser window closes, select "&gt;
+        &lt;Style FontSize="12" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="NEXT "&gt;
+        &lt;Style FontSize="12" FontIsBold="False" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to mark this course complete."&gt;
+        &lt;Style FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+    </slidetranscripts>
+  </transcript_data>
+  <glossary_data />
+</bwFrame>
